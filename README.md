@@ -23,5 +23,6 @@ body {font-family: Times New Roman, serif; font-size: 20px; color: Black}
 <li>Different price plans for whatever you desire</li>
 <li>Free shipping for orders over $35</li>
 <li>Able to track your order <a href="https://www.usps.com/?msockid=1d1f7685dba56f943b7664e5da366ec4/" target="_blank" rel=noopener noreferrer">USPS<a/></li></ul>
+
 <p style="font-size: 25px;"><b>Download our <a href="https://drive.google.com/uc?export=download&id=16QRnpYJE56CLSryD__fHLv0QuRkQp6ur" download>company brochure</a> for more information.</b></p>
 <p style="font-size: 24px;"><b>Questions? <a href="mailto:cadetnapier@gmail.com">Contact us here</a></b></p>
