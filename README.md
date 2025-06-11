@@ -6,7 +6,7 @@
     <title>Customer Testimonials - Eloheh</title>
     <style>
         body {
-            background-color: light brown;
+            background-color: #FD5EAB;
             font-family: Arial, sans-serif;
             line-height: 1.6;
         }
