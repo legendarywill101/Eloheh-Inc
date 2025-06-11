@@ -13,7 +13,7 @@ body {font-family: Times New Roman, serif; font-size: 20px; color: Black}
 <h1 style="text-align: center; font-family: Georgia, serif; color: #32455A"><b>Customer Reviews</b></h1>
 <p><b>Our customers continue to come back and shop with us! Here are some of their reviews:</b></p>
 <ol>    
-<li>"It was very nice of them to be able to create a custom note for my order. It made the perfect surprise for my friend." - <b><u><i>Kylian Mbappe</b></u></p></i></li>
+<li>"It was very nice of them to be able to create a custom note for my order. It made the perfect surprise for my friend." - <b><u><i>Kylian Mbappe</li>
 <li>"I also like how you're able to track what you've purchased." - <b><u><i>Jude Bellingham</b></u></p></i></li>
 <li>"I like the rewards program they have in place. The sound of a possible free gift on one's birthday sounds really cool." - <b><u><i>Vinicius Junior</b></u></p></i></li>
 <h2 style='text-align: center; font-family: Times New Roman, serif; font-size: 40px; color: #32455A;'><b>Why Choose Us?</b></h2>
