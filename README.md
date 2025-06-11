@@ -69,7 +69,7 @@
     </ol>
 
     <div class="contact">
-        <a href="mailto:creator@example.com">Contact Me</a>
+        <a href="mailto:napierw@purdue.edu">Contact Me</a>
     </div>
 
     <div class="download">
