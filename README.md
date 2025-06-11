@@ -68,7 +68,7 @@
         <li>"Eloheh's products are of the highest quality." - Linda Wilson</li>
     </ol>
 
-    <img src="images/placeholder.jpg" alt="Customer Image" width="300">
+    <img src="https://drive.google.com/thumbnail?id=1g9gfBhADa3NTRd7t-31KYByMkOS25QEI" alt="Picture of company logo" width="200" align="c">
 
     <div class="contact">
         <a href="mailto:creator@example.com">Contact Me</a>
