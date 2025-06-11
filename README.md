@@ -58,14 +58,14 @@
     <ul>
         <li>Kylian Mbappe: "Eloheh's healthcare products have changed my life!"</li>
         <li>Desire Doue: "The services provided by Eloheh are top-notch."</li>
-        <li>Ousmane Dembele: "I highly recommend Eloheh to everyone."</li>
+        <li>Jules Kounde: "I highly recommend Eloheh to everyone."</li>
     </ul>
 
     <h2>Quotes from Customers</h2>
     <ol>
-        <li>"Eloheh's customer service is exceptional!" - Bradley Barcola</li>
-        <li>"I feel healthier and happier thanks to Eloheh." - Jules Kounde</li>
-        <li>"Eloheh's products are of the highest quality." - William Saliba</li>
+        <li>"Eloheh's customer service is exceptional!" - Achraf Hakimi Doue</li>
+        <li>"I feel healthier and happier thanks to Eloheh." - Ousmane Dembele</li>
+        <li>"Eloheh's products are of the highest quality." - Bradley Barcola</li>
     </ol>
 
     <div class="contact">
