@@ -11,7 +11,7 @@
             line-height: 1.6;
         }
         h1, h2 {
-            color: #ffffff;
+            color: #000000;
         }
         .bold {
             font-weight: bold;
