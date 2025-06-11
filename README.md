@@ -56,16 +56,16 @@
 
     <h2>Success Stories</h2>
     <ul>
-        <li>John Doe: "Eloheh's healthcare products have changed my life!"</li>
-        <li>Jane Smith: "The services provided by Eloheh are top-notch."</li>
-        <li>Michael Johnson: "I highly recommend Eloheh to everyone."</li>
+        <li>Kylian Mbappe: "Eloheh's healthcare products have changed my life!"</li>
+        <li>Desire Doue: "The services provided by Eloheh are top-notch."</li>
+        <li>Ousmane Dembele: "I highly recommend Eloheh to everyone."</li>
     </ul>
 
     <h2>Quotes from Customers</h2>
     <ol>
-        <li>"Eloheh's customer service is exceptional!" - Emily Davis</li>
-        <li>"I feel healthier and happier thanks to Eloheh." - Robert Brown</li>
-        <li>"Eloheh's products are of the highest quality." - Linda Wilson</li>
+        <li>"Eloheh's customer service is exceptional!" - Bradley Barcola</li>
+        <li>"I feel healthier and happier thanks to Eloheh." - Jules Kounde</li>
+        <li>"Eloheh's products are of the highest quality." - William Saliba</li>
     </ol>
 
     <div class="contact">
