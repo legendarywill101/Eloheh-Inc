@@ -63,7 +63,7 @@
 
     <h2>Quotes from Customers</h2>
     <ol>
-        <li>"Eloheh's customer service is exceptional!" - Achraf Hakimi Doue</li>
+        <li>"Eloheh's customer service is exceptional!" - Achraf Hakimi</li>
         <li>"I feel healthier and happier thanks to Eloheh." - Ousmane Dembele</li>
         <li>"Eloheh's products are of the highest quality." - Bradley Barcola</li>
     </ol>
