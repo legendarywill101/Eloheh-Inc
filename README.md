@@ -6,11 +6,12 @@
     <title>Customer Testimonials - Eloheh</title>
     <style>
         body {
+            background-color: brown;
             font-family: Arial, sans-serif;
             line-height: 1.6;
         }
         h1, h2 {
-            color: #2c3e50;
+            color: #ffffff;
         }
         .bold {
             font-weight: bold;
@@ -37,16 +38,14 @@
             font-size: 12px;
         }
         .large {
-                   .contact {
-            margin-top: 20px;
+            font-size: 20px;
         }
-        .download {
+        .contact, .download, .last-modified, .external-link {
             margin-top: 20px;
         }
         .last-modified {
-            margin-top: 20px;
             font-size: 14px;
-            color: #7f8c8d;
+            color: #f0e68c;
         }
     </style>
 </head>
