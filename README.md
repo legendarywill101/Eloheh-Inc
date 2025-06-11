@@ -25,7 +25,7 @@
             color: #e74c3c;
         }
         .color2 {
-            color: #3498db;
+            color: #7851a9;
         }
         .font1 {
             font-family: 'Times New Roman', Times, serif;
