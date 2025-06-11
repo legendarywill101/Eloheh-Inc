@@ -1,29 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>Customer Reviews</title>
-<style>
-body {background-color: #F5DEAB}
-h1 {font-family: Georgia, serif; font-size: 40px; color #32455A}
-body {font-family: Times New Roman, serif; font-size: 20px; color: Black}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Testimonials - Eloheh</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .bold {
+            font-weight: bold;
+        }
+        .underline {
+            text-decoration: underline;
+        }
+        .italic {
+            font-style: italic;
+        }
+        .color1 {
+            color: #e74c3c;
+        }
+        .color2 {
+            color: #3498db;
+        }
+        .font1 {
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .font2 {
+            font-family: 'Courier New', Courier, monospace;
+        }
+        .small {
+            font-size: 12px;
+        }
+        .large {
+                   .contact {
+            margin-top: 20px;
+        }
+        .download {
+            margin-top: 20px;
+        }
+        .last-modified {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #7f8c8d;
+        }
+    </style>
 </head>
 <body>
-<div style="text-align: center;">
-    <img src="https://drive.google.com/thumbnail?id=1g9gfBhADa3NTRd7t-31KYByMkOS25QEI" alt="Picture of company logo" width="200" align="c">
-</div>
-<h1 style="text-align: center; font-family: Georgia, serif; color: #32455A"><b>Customer Reviews</b></h1>
-<p><b>Our customers continue to come back and shop with us! Here are some of their reviews:</b></p>
-<ol>    
-<li>"It was very nice of them to be able to create a custom note for my order. It made the perfect surprise for my friend." - ***Kylian Mbappe***
-<li>"I also like how you're able to track what you've purchased." - ***Jude Bellingham***
-<li>"I like the rewards program they have in place. The sound of a possible free gift on one's birthday sounds really cool." - ***Vinicius Junior***
-<h2 style='text-align: center; font-family: Times New Roman, serif; font-size: 40px; color: #32455A;'><b>Why Choose Us?</b></h2>
-<ul>
-<li>Excellent customer service</li>
-<li>Unique and high quality snacks</li>
-<li>Different price plans for whatever you desire</li>
-<li>Free shipping for orders over $35</li>
-<li>Able to track your order <a href="https://www.usps.com/?msockid=1d1f7685dba56f943b7664e5da366ec4/" target="_blank" rel=noopener noreferrer">USPS<a/></li>
-<p style="font-size: 25px;"><b>Download our <a href="https://drive.google.com/uc?export=download&id=16QRnpYJE56CLSryD__fHLv0QuRkQp6ur" download>company brochure</a> for more information.</b></p>
-<p style="font-size: 24px;"><b>Questions? <a href="mailto:cadetnapier@gmail.com">Contact us here</a></b></p>
+    <h1>Customer Testimonials</h1>
+    <p class="bold underline italic color1 font1 large">Our customers love our products and services!</p>
+    <p class="color2 font2 small">Here are some of their success stories:</p>
+
+    <h2>Success Stories</h2>
+    <ul>
+        <li>John Doe: "Eloheh's healthcare products have changed my life!"</li>
+        <li>Jane Smith: "The services provided by Eloheh are top-notch."</li>
+        <li>Michael Johnson: "I highly recommend Eloheh to everyone."</li>
+    </ul>
+
+    <h2>Quotes from Customers</h2>
+    <ol>
+        <li>"Eloheh's customer service is exceptional!" - Emily Davis</li>
+        <li>"I feel healthier and happier thanks to Eloheh." - Robert Brown</li>
+        <li>"Eloheh's products are of the highest quality." - Linda Wilson</li>
+    </ol>
+
+    <img src="images/placeholder.jpg" alt="Customer Image" width="300">
+
+    <div class="contact">
+        <a href="mailto:creator@example.com">Contact Me</a>
+    </div>
+
+    <div class="download">
+        <a href="files/placeholder.pdf" download>Download Customer Testimonials PDF</a>
+    </div>
+
+    <div class="last-modified">
+        <script>
+            document.write("Date last modified: " + document.lastModified);
+        </script>
+    </div>
+
+    <div class="external-link">
+        <a href="https://www.healthcare.gov" target="_blank">Visit Healthcare.gov</a>
+    </div>
 </body>
 </html>
