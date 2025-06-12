@@ -49,7 +49,7 @@
     </style>
 </head>
 <body>
-    <img src="https://drive.google.com/thumbnail?id=1g9gfBhADa3NTRd7t-31KYByMkOS25QEI" alt="Picture of company logo" width="200">
+    <img src="https://drive.google.com/thumbnail?id=1-e4vj9zWNe5zxD9D4i75zwqh9oJNJRp_" alt="Picture of company logo" width="200">
     <h1>Customer Testimonials</h1>
     <p class="bold underline italic color1 font1 large">Our customers love our products and services!</p>
     <p class="color2 font2 small">Here are some of their success stories:</p>
@@ -73,7 +73,7 @@
     </div>
 
     <div class="download">
-        <a href="https://drive.google.com/uc?export=download&id=16QRnpYJE56CLSryD__fHLv0QuRkQp6ur" download>Download Customer Testimonials PDF</a>
+        <a href="https://https://drive.google.com/uc?export=download&id=1MALfWg01KM5q65SvFTrNey0QHvOO1An4" download>Download Customer Testimonials PDF</a>
     </div>
 
     <div class="external-link">
