@@ -1,89 +1,80 @@
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Customer Testimonials - Eloheh</title>
-    <style>
-        body {
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eloheh Healthcare Services</title>
+    <style>
+        body {
             background-color: #BD9A7A;
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #f9e79f;
+        }
+        h2 {
+            color: #f7dc6f;
+        }
+            font-weight: bold;
+        }
+        .italic {
+            font-style: italic;
+        }
+        .underline {
+            text-decoration: underline;
+        }
+        .highlight {
+            color: #f1948a;
+        }
+        .contact {
+            color: #aed6f1;
+            font-family: Courier, monospace;
+            font-size: 1.1em;
         }
-        h1, h2 {
-            color: #000000;
-        }
-        .bold {
-            font-weight: bold;
-        }
-        .underline {
-            text-decoration: underline;
-        }
-        .italic {
-            font-style: italic;
-        }
-        .color1 {
-            color: #e74c3c;
-        }
-        .color2 {
-            color: #7851a9;
-        }
-        .font1 {
-            font-family: 'Times New Roman', Times, serif;
-        }
-        .font2 {
-            font-family: 'Courier New', Courier, monospace;
-        }
-        .small {
-            font-size: 12px;
-        }
-        .large {
-            font-size: 20px;
-        }
-        .contact, .download, .last-modified, .external-link {
-            margin-top: 20px;
-        }
-        .last-modified {
-            font-size: 14px;
-            color: #f0e68c;
-        }
-    </style>
+        .last-modified {
+            font-size: 0.9em;
+            color: #d5d8dc;
+        }
+    </style>
 </head>
 <body>
-    <img src="https://drive.google.com/thumbnail?id=1-e4vj9zWNe5zxD9D4i75zwqh9oJNJRp_" alt="Picture of company logo" width="200">
-    <h1>Customer Testimonials</h1>
-    <p class="bold underline italic color1 font1 large">Our customers love our products and services!</p>
-    <p class="color2 font2 small">Here are some of their success stories:</p>
+    <h1>Eloheh Healthcare Services</h1>
+    <img src="https://drive.google.com/thumbnail?id=1-e4vj9zWNe5zxD9D4i75zwqh9oJNJRp_" alt="Healthcare Image" width="200">
 
-    <h2>Success Stories</h2>
-    <ul>
-        <li>Kylian Mbappe: "Eloheh's healthcare products have changed my life!"</li>
-        <li>Desire Doue: "The services provided by Eloheh are top-notch."</li>
-        <li>Jules Kounde: "I highly recommend Eloheh to everyone."</li>
-    </ul>
+    <h2>Our Services</h2>
+    <div class="services">
+        <p><span class="bold underline">Basic Care Package</span> - <span class="italic">General Checkup + Wellness Tips</span> - <span class="highlight">$49.99/month</span></p>
+        <p><span class="bold underline">Standard Care Package</span> - <span class="italic">Basic Care + Virtual Consultations</span> - <span class="highlight">$89.99/month</span></p>
+        <p><span class="bold underline">Premium Care Package</span> - <span class="italic">Standard Care + Lab Tests + Priority Support</span> - <span class="highlight">$149.99/month</span></p>
+        <p><span class="bold underline">Custom Care Package</span> - <span class="italic">Tailored Services Based on Your Needs</span> - <span class="highlight">Price Varies</span></p>
+    </div>
 
-    <h2>Quotes from Customers</h2>
-    <ol>
-        <li>"Eloheh's customer service is exceptional!" - Achraf Hakimi</li>
-        <li>"I feel healthier and happier thanks to Eloheh." - Ousmane Dembele</li>
-        <li>"Eloheh's products are of the highest quality." - Bradley Barcola</li>
-    </ol>
+    <h2>Why Choose Us?</h2>
+    <ul>
+        <li>Comprehensive healthcare solutions</li>
+        <li>Affordable pricing</li>
+        <li>Expert medical professionals</li>
+    </ul>
 
-    <div class="contact">
-        <a href="mailto:napierw@purdue.edu">Contact Me</a>
-    </div>
+    <h2>Contact Us</h2>
+    <p>If you have any questions or need further information, please <a href="mailto:hlumpcik@purdue.edu" class="contact">contact me</a>.</p>
 
-    <div class="download">
-        <a href="https://drive.google.com/uc?export=download&id=18gWGULhJHKvTcSH-5GL_KnKt3mocrGZT" download>Download Customer Testimonials PDF</a>
-    </div>
+    <h2>Additional Resources</h2>
+    <p>For more information on healthcare, visit <a href="https://www.healthcare.gov" target="_blank">HealthCare.gov</a>.</p>
+    <p>Download our <a href="https://drive.google.com/uc?export=download&id=18gWGULhJHKvTcSH-5GL_KnKt3mocrGZT" download>brochure</a> for more details.</p>
 
-    <div class="external-link">
-        <a href="https://www.healthcare.gov" target="_blank">Visit Healthcare.gov</a>
-    </div>
+    <h2>Service Packages</h2>
+    <ol>
+        <li>Basic Care Package</li>
+        <li>Standard Care Package</li>
+        <li>Premium Care Package</li>
+        <li>Custom Care Package</li>
+    </ol>
 
-    <div class="last-modified">
-        <script>
-            document.write("Date last modified: " + document.lastModified);
-        </script>
-    </div>
+    <p class="last-modified">Last modified: <span id="lastModified"></span></p>
+
+    <script>
+        document.getElementById('lastModified').textContent = document.lastModified;
+    </script>
 </body>
 </html>
