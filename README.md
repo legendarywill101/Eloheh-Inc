@@ -5,7 +5,7 @@
     <title>Eloheh Healthcare Services</title>
     <style>
         body {
-            background-color: #BD9A7A;
+            background-color: #BD9A7A;
             font-family: Arial, sans-serif;
             line-height: 1.6;
         }
@@ -15,6 +15,7 @@
         h2 {
             color: #f7dc6f;
         }
+        .bold {
             font-weight: bold;
         }
         .italic {
@@ -27,10 +28,10 @@
             color: #f1948a;
         }
         .contact {
-            color: #aed6f1;
-            font-family: Courier, monospace;
-            font-size: 1.1em;
-        }
+            color: #aed6f1;
+            font-family: Courier, monospace;
+            font-size: 1.1em;
+        }
         .last-modified {
             font-size: 0.9em;
             color: #d5d8dc;
