@@ -39,7 +39,18 @@
         .large {
             font-size: 1.3em;
         }
-        .contact, .download, .last-modified, .external-link {
+        .contact {
+            font-family: Courier, monospace;
+            font-size: 1.3em;
+            margin-top: 20px;
+        }
+        .last-modified {
+            font-size: 0.8em;
+            color: #f0e68c;
+            font-family: 'Times New Roman', Times, serif;
+            margin-top: 20px;
+        }
+        .download, .external-link {
             margin-top: 20px;
         }
         .last-modified {
