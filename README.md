@@ -75,7 +75,8 @@
     <ol>
         <li>"Eloheh's customer service is exceptional!" - Achraf Hakimi</li>
         <li>"I feel healthier and happier thanks to Eloheh." - Ousmane Dembele</li>
-        <li>"Eloheh's products are of the highest quality." - Bradley Barcola</li>
+        <li>"Eloheh's products are of the highest quality." - <span class="bold">Bradley Barcola</span></li>
+
     </ol>
 
     <div class="contact">
