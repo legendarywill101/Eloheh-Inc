@@ -34,10 +34,10 @@
             font-family: 'Courier New', Courier, monospace;
         }
         .small {
-            font-size: 0.9em;
+            font-size: 0.7em;
         }
         .large {
-            font-size: 1.1em;
+            font-size: 1.3em;
         }
         .contact, .download, .last-modified, .external-link {
             margin-top: 20px;
@@ -50,8 +50,8 @@
 <body>
     <img src="https://drive.google.com/thumbnail?id=1-e4vj9zWNe5zxD9D4i75zwqh9oJNJRp_" alt="Picture of company logo" width="200">
     <h1>Customer Testimonials</h1>
-    <p class="bold underline italic color1 font1 large">Our customers love our products and services!</p>
-    <p class="color2 font2 small">Here are some of their success stories:</p>
+    <p class="bold underline italic color1 font1">Our customers love our products and services!</p>
+    <p class="color2 font2">Here are some of their success stories:</p>
 
     <h2>Success Stories</h2>
     <ul>
