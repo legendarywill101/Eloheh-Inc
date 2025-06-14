@@ -34,16 +34,15 @@
             font-family: 'Courier New', Courier, monospace;
         }
         .small {
-            font-size: 12px;
+            font-size: 0.9em;
         }
         .large {
-            font-size: 20px;
+            font-size: 1.1em;
         }
         .contact, .download, .last-modified, .external-link {
             margin-top: 20px;
         }
         .last-modified {
-            font-size: 14px;
             color: #f0e68c;
         }
     </style>
