@@ -72,7 +72,7 @@
     </div>
 
     <div class="download">
-        <a href="https://drive.google.com/uc?export=download&id=18gWGULhJHKvTcSH-5GL_KnKt3mocrGZT" download>Download Customer Testimonials PDF</a>
+        <a href="https://drive.google.com/uc?export=download&id=18gWGULhJHKvTcSH-5GL_KnKt3mocrGZT" download>Download Pricing Plan</a>
     </div>
 
     <div class="external-link">
