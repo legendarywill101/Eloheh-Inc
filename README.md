@@ -66,7 +66,7 @@
 
     <h2>Success Stories</h2>
     <ul>
-        <li>Kylian Mbappe: "Eloheh's healthcare products have changed my life!"</li>
+        <li><span class="bold">Kylian Mbappe: "Eloheh's healthcare products have changed my life!"</li>
         <li>Desire Doue: "The services provided by Eloheh are top-notch."</li>
         <li>Jules Kounde: "I highly recommend Eloheh to everyone."</li>
     </ul>
