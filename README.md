@@ -34,7 +34,7 @@
             font-family: 'Courier New', Courier, monospace;
         }
         .small {
-            font-size: 0.7em;
+            font-size: 0.8em;
         }
         .large {
             font-size: 1.3em;
